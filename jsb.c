@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+//minor change
 int main(int argc, char ** argv)
 {
 	FILE * in, * out;
